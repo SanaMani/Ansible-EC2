@@ -1,6 +1,6 @@
 --- # EC2_KEY MODULE EXAMPLE
 - hosts: localhost
-  connection: loacl
+  connection: loacal
   remote_user: test
   become: yes
   gather_facts: no
