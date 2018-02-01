@@ -3,6 +3,7 @@ The Ansible-Ec2 repository is a good starting point for using ansible in aws ec2
 
 
 ## Install Python
+http://bicofino.io/2014/01/16/installing-python-2-dot-7-6-on-centos-6-dot-5/
 
 ## Install Ansible
 
